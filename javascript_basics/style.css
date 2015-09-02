@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body { font-family: 'Open Sans'; }
+h1, h2, h3 {
+  font-family: 'Open Sans';
+  font-weight: 700;
+}
+
+.red {
+  color:#FF534B;  
+}
+
+.green {
+  color:#3FFF86;
+}
+
+.blue {
+  color:#6263E8;
+}
+
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
